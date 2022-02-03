@@ -5,7 +5,7 @@ As a foundation I used my new acquired knowledge and then did some research on o
 
 This is one the codes I used:
 
-/*
+
   ############################################################
   #   File:       Arduino_GreenHouse_Controling_sustem.ino   #
   #   Processor:  Arduino UNO, MEGA                          #
