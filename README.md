@@ -12,9 +12,18 @@ Design and pratical implementation of the small automated greenhouse for home:
 4) light control.
 5) heating control.
 
+In theory how it works:
+
+
 My project successfully analyzes and executed the requirements of this project:
 
 ![photo_2022-02-03_21-12-37](https://user-images.githubusercontent.com/90827811/152420467-b6ee71be-bcb8-48ec-97f3-02e7b08eea10.jpg)
 
 
 As a foundation I used my new acquired knowledge and then did some research on others projects and took things like codes for components so they code work all together
+
+
+Rough schematics of my project:
+
+![image](https://user-images.githubusercontent.com/90827811/152422690-fb7ad1da-323b-444c-9883-c1c33aa929e5.png)
+
