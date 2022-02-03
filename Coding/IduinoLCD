@@ -1,0 +1,6 @@
+#include  <IduinoLCD_GFX.h>
+#include  <IduinoLCD_ST7735.h>
+#include <SPI.h>
+
+duinoLCD_ST7735 tft = duinoLCDt_ST7735(TFT_CS,  TFT_DC, TFT_RST);
+
