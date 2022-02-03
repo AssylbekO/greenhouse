@@ -334,3 +334,5 @@ void printText1(float num, uint16_t color, int x, int y, int textSize)
   tft.print(num);
   // printText1(value, RED,18,130,1);
 }
+
+//taken from https://create.arduino.cc/projecthub/billy-king/mini-greenhouse-1-20x0-60x0-60-f43bcc
